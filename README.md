@@ -27,8 +27,8 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyunmeng&show_icons=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suyunmeng&layout=compact&hide_border=true&theme=default)
+![Your GitHub stats](https://github-stats-zeta-opal.vercel.app/api?username=Suyunmeng&show_icons=true&hide_border=true&theme=default)
+![Top Langs](https://github-stats-zeta-opal.vercel.app/api/top-langs/?username=Suyunmeng&layout=compact&hide_border=true&theme=default)
 
 ---
 
