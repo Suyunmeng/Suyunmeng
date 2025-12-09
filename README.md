@@ -5,7 +5,7 @@
 
 ---
 
-🎯 I'm a passionate **developer** who loves building open-source projects, learning new technologies, and sharing knowledge with the community.
+🎯 I'm a passionate **developer** who loves building open-source projects, learning new technologies, and continuously exploring new frontiers in tech.
 
 - 🔭 I’m currently working on: **[OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList)**、**[CloudLink-Cortex/CyRene-AI (Closed-source internal development)](https://github.com/cloudlinklabs)**
 - 🌱 I’m currently learning: **Go**, **Javascripts**, **Docker**, and **AI/LLM**
